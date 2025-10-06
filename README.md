@@ -85,10 +85,11 @@ Each stage — from **School to College to University** — is represented throu
 <img width="486" height="561" alt="image" src="https://github.com/user-attachments/assets/fce3a740-3b5e-4429-9067-a9ae007a3002" />
 
 
-👨‍🏫 **Course Teacher** | **Noboranjan Dey** |
-|lecturer, Faculty
-DEPARTMENT OF COMPUTER SCIENCE|
-|noboranjan@aiub.edu|
+
+
+
+
+
 
 ## 👨‍💻 Team Members  
 
@@ -115,6 +116,16 @@ Build and Run the project
 
 Enjoy the visual Journey of a Student Life 🎓
 
+## 🙏 Acknowledgment  
+
+We would like to express our sincere gratitude to **Mr. Noboranjon Dey**,  
+*Lecturer, Faculty of Science and Technology*  
+**Department of Computer Science**,  
+*American International University–Bangladesh (AIUB)*,  
+for his valuable guidance, constructive feedback, and continuous support  
+throughout the development of this project.
+
+
 📚 References
 
 📦 GitHub Repo: Journey of a Student Life
@@ -122,6 +133,9 @@ Enjoy the visual Journey of a Student Life 🎓
 📘 Course: Computer Graphics (CSC4118) — Summer 2024–25
 
 🎓 Institution: American International University-Bangladesh (AIUB)
+
+
+
 
 🧠 Concept Summary
 
