@@ -151,7 +151,7 @@ Feel free to fork and modify for your own learning and experimentation.
 
 🌟 Created with passion by
 
-Group 06 
-Computer Graphics [I]
+Group 06_ 
+Computer Graphics [I]_
 Summer 2024-25
 
