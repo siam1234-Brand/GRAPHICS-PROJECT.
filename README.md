@@ -151,4 +151,7 @@ Feel free to fork and modify for your own learning and experimentation.
 
 🌟 Created with passion by
 
-Team 06 — AIUB Computer Graphics Project
+Group 06 
+Computer Graphics [I]
+Summer 2024-25
+
