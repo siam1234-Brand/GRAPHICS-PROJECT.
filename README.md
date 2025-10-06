@@ -85,7 +85,10 @@ Each stage — from **School to College to University** — is represented throu
 <img width="486" height="561" alt="image" src="https://github.com/user-attachments/assets/fce3a740-3b5e-4429-9067-a9ae007a3002" />
 
 
-
+👨‍🏫 **Course Teacher** | **Noboranjan Dey** |
+|lecturer, Faculty
+DEPARTMENT OF COMPUTER SCIENCE|
+|noboranjan@aiub.edu|
 
 ## 👨‍💻 Team Members  
 
