@@ -93,12 +93,17 @@ Each stage — from **School to College to University** — is represented throu
 
 ## 👨‍💻 Team Members  
 
-| Name | ID | Program |
-|------|----|----------|
-| Razia Fahmida Haque | 23-50740-1 | BSc CSE |
-| Mohammad Ali Masud | 23-51676-2 | BSc CSE |
-| **Md. Mahabubur Rahaman Siam** | 23-51706-2 | BSc CSE |
-| Sumaiya Naeem Mohammed | 23-54378-3 | BSc CSE |
+-**Razia Fahmida Haque**
+  Email: [23-50740-1@student.aiub.edu](mailto:23-50740-1@student.aiub.edu)
+
+- **Mohammad Ali Masud**  
+  Email: [23-51676-2@student.aiub.edu](mailto:23-51676-2@student.aiub.edu)
+  
+- **Md. Mahabubur Rahaman Siam**  
+  Email: [23-51706-2@student.aiub.edu](mailto:23-51706-2@student.aiub.edu)
+  
+- **Sumaiya Naeem Mohammed**  
+  Email: [23-54378-3@student.aiub.edu](mailto:23-54378-3@student.aiub.edu)
 
 ---
 
