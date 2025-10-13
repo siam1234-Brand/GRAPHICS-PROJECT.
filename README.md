@@ -93,17 +93,19 @@ Each stage — from **School to College to University** — is represented throu
 
 ## 👨‍💻 Team Members  
 
--**Razia Fahmida Haque**
+
+- **Razia Fahmida Haque**  
   Email: [23-50740-1@student.aiub.edu](mailto:23-50740-1@student.aiub.edu)
 
 - **Mohammad Ali Masud**  
   Email: [23-51676-2@student.aiub.edu](mailto:23-51676-2@student.aiub.edu)
-  
+
 - **Md. Mahabubur Rahaman Siam**  
   Email: [23-51706-2@student.aiub.edu](mailto:23-51706-2@student.aiub.edu)
-  
+
 - **Sumaiya Naeem Mohammed**  
   Email: [23-54378-3@student.aiub.edu](mailto:23-54378-3@student.aiub.edu)
+
 
 ---
 
@@ -123,15 +125,20 @@ Enjoy the visual Journey of a Student Life 🎓
 
 ## 🙏 Acknowledgment  
 
-We would like to express our sincere gratitude to **Mr. Noboranjon Dey**,  
-*Lecturer, Faculty of Science and Technology*  
-**Department of Computer Science**,  
-*American International University–Bangladesh (AIUB)*,  
-for his valuable guidance, constructive feedback, and continuous support  
-throughout the development of this project.
+We would like to express our sincere gratitude to 
+
+## Supervised by:
+- **Noboranjan Dey**  
+  Lecturer, Faculty  
+  Department of Computer Science  
+  American International University–Bangladesh (AIUB)  
+  Email: [noboranjan@aiub.edu](mailto:noboranjan@aiub.edu)
+
+for his valuable guidance, constructive feedback, and continuous support throughout the development of this project.
 
 
-📚 References
+
+## 📚 References
 
 📦 GitHub Repo: Journey of a Student Life
 
@@ -142,19 +149,19 @@ throughout the development of this project.
 
 
 
-🧠 Concept Summary
+## 🧠 Concept Summary
 
 This project merges creativity with computation — showing that programming can be an art form.
 It’s not just about drawing shapes; it’s about expressing emotion, growth, and learning through the lens of graphics and code.
 
 “Code can tell stories — if we design with intention.”
 
-🪪 License
+## 🪪 License
 
 This project is for educational purposes under the AIUB Computer Graphics course.
 Feel free to fork and modify for your own learning and experimentation.
 
-🌟 Created with passion by
+## 🌟 Created with passion by
 
 Group 06_ 
 Computer Graphics [I]_
