@@ -1,6 +1,39 @@
+### 🏫 American International University–Bangladesh (AIUB)
+**Department:** Computer Science  
+**Course:** CSC4118 –  COMPUTER GRAPHICS
+**Semester:** Summer 2024–2025  
+**Section:** I 
+
+
+## Supervised by:
+- **Noboranjan Dey**  
+  Lecturer, Faculty  
+  Department of Computer Science  
+  American International University–Bangladesh (AIUB)  
+  Email: [noboranjan@aiub.edu](mailto:noboranjan@aiub.edu)
+
+## Developed by:
+
+- **Razia Fahmida Haque**  
+  Email: [23-50740-1@student.aiub.edu](mailto:23-50740-1@student.aiub.edu)
+
+- **Mohammad Ali Masud**  
+  Email: [23-51676-2@student.aiub.edu](mailto:23-51676-2@student.aiub.edu)
+
+- **Md. Mahabubur Rahaman Siam**  
+  Email: [23-51706-2@student.aiub.edu](mailto:23-51706-2@student.aiub.edu)
+
+- **Sumaiya Naeem Mohammed**  
+  Email: [23-54378-3@student.aiub.edu](mailto:23-54378-3@student.aiub.edu)
+
+
+
+
+
 # 🎓 Journey of a Student Life — OpenGL 2D Graphics Project  
 
 > A creative OpenGL project visualizing the **three stages of a student's life** — School, College, and University — through 2D art and animation in **C++**.
+
 
 ---
 
@@ -87,26 +120,6 @@ Each stage — from **School to College to University** — is represented throu
 
 
 
-
-
-
-
-## 👨‍💻 Team Members  
-
-
-- **Razia Fahmida Haque**  
-  Email: [23-50740-1@student.aiub.edu](mailto:23-50740-1@student.aiub.edu)
-
-- **Mohammad Ali Masud**  
-  Email: [23-51676-2@student.aiub.edu](mailto:23-51676-2@student.aiub.edu)
-
-- **Md. Mahabubur Rahaman Siam**  
-  Email: [23-51706-2@student.aiub.edu](mailto:23-51706-2@student.aiub.edu)
-
-- **Sumaiya Naeem Mohammed**  
-  Email: [23-54378-3@student.aiub.edu](mailto:23-54378-3@student.aiub.edu)
-
-
 ---
 
 ## 🚀 How to Run  
@@ -122,31 +135,6 @@ Ensure that OpenGL and GLUT libraries are configured correctly
 Build and Run the project
 
 Enjoy the visual Journey of a Student Life 🎓
-
-## 🙏 Acknowledgment  
-
-We would like to express our sincere gratitude to 
-
-## Supervised by:
-- **Noboranjan Dey**  
-  Lecturer, Faculty  
-  Department of Computer Science  
-  American International University–Bangladesh (AIUB)  
-  Email: [noboranjan@aiub.edu](mailto:noboranjan@aiub.edu)
-
-for his valuable guidance, constructive feedback, and continuous support throughout the development of this project.
-
-
-
-## 📚 References
-
-📦 GitHub Repo: Journey of a Student Life
-
-📘 Course: Computer Graphics (CSC4118) — Summer 2024–25
-
-🎓 Institution: American International University-Bangladesh (AIUB)
-
-
 
 
 ## 🧠 Concept Summary
