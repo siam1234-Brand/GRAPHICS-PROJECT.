@@ -29,15 +29,6 @@
 
 ---
 
-## 📂 Project Setup
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repository.git
-
-
-
-
 
 # 🎓 Journey of a Student Life — OpenGL 2D Graphics Project  
 
