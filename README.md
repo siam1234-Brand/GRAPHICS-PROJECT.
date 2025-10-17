@@ -1,9 +1,10 @@
-### 🏫 American International University–Bangladesh (AIUB)
-**Department:** Computer Science  
-**Course:** CSC4118 –  COMPUTER GRAPHICS
-**Semester:** Summer 2024–2025  
-**Section:** I 
+# 🚀 Computer Graphics Project
 
+### 🏫 American International University–Bangladesh (AIUB)  
+**Department:** Computer Science  
+**Course:** CSC4118 – Computer Graphics  
+**Semester:** Summer 2024–2025  
+**Section:** I  
 
 ## Supervised by:
 - **Noboranjan Dey**  
@@ -25,6 +26,14 @@
 
 - **Sumaiya Naeem Mohammed**  
   Email: [23-54378-3@student.aiub.edu](mailto:23-54378-3@student.aiub.edu)
+
+---
+
+## 📂 Project Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/your-repository.git
 
 
 
