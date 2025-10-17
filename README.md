@@ -1,6 +1,10 @@
-# 🚀 Computer Graphics Project
+# 🎓 Journey of a Student Life — OpenGL 2D Graphics Project  
 
-### 🏫 American International University–Bangladesh (AIUB)  
+> A creative OpenGL project visualizing the **three stages of a student's life** — School, College, and University — through 2D art and animation in **C++**.
+
+---
+
+## 🏫 American International University–Bangladesh (AIUB)  
 **Department:** Computer Science  
 **Course:** CSC4118 – Computer Graphics  
 **Semester:** Summer 2024–2025  
@@ -14,7 +18,6 @@
   Email: [noboranjan@aiub.edu](mailto:noboranjan@aiub.edu)
 
 ## Developed by:
-
 - **Razia Fahmida Haque**  
   Email: [23-50740-1@student.aiub.edu](mailto:23-50740-1@student.aiub.edu)
 
@@ -26,14 +29,6 @@
 
 - **Sumaiya Naeem Mohammed**  
   Email: [23-54378-3@student.aiub.edu](mailto:23-54378-3@student.aiub.edu)
-
----
-
-
-# 🎓 Journey of a Student Life — OpenGL 2D Graphics Project  
-
-> A creative OpenGL project visualizing the **three stages of a student's life** — School, College, and University — through 2D art and animation in **C++**.
-
 
 ---
 
@@ -109,16 +104,11 @@ Each stage — from **School to College to University** — is represented throu
 ### 🏫 School Scene  
 <img width="509" height="578" alt="image" src="https://github.com/user-attachments/assets/0c644cbb-a735-4e32-a3cf-a69ba0d2e4f8" />
 
-
 ### 🏛️ College Scene  
 <img width="518" height="568" alt="image" src="https://github.com/user-attachments/assets/57510566-54eb-49d4-907d-1ee40d7d6557" />
 
-
 ### 🎓 University Scene  
 <img width="486" height="561" alt="image" src="https://github.com/user-attachments/assets/fce3a740-3b5e-4429-9067-a9ae007a3002" />
-
-
-
 
 ---
 
@@ -128,14 +118,15 @@ Each stage — from **School to College to University** — is represented throu
    ```bash
    git clone https://github.com/siam1234-Brand/GRAPHICS-PROJECT..git
 
-   Open the project in Code::Blocks
+2. **Open the project in Code::Blocks**
 
-Ensure that OpenGL and GLUT libraries are configured correctly
+3. **Ensure that OpenGL and GLUT libraries are configured correctly**
 
-Build and Run the project
+4. **Build and Run the project**
 
-Enjoy the visual Journey of a Student Life 🎓
+5. **Enjoy the visual Journey of a Student Life 🎓**
 
+---
 
 ## 🧠 Concept Summary
 
