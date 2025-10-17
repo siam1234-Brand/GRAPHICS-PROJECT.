@@ -137,7 +137,7 @@ It’s not just about drawing shapes; it’s about expressing emotion, growth, a
 
 ## 🪪 License
 
-This project is developed for educational purposes under AIUB. Feel free to fork and modify for your own learning and experimentation. All rights reserved © OBJECT ORIENTED PROGRAMMING 2 [R]_Group 5_Project Team
+This project is developed for educational purposes under AIUB. Feel free to fork and modify for your own learning and experimentation. All rights reserved © Computer Graphics [I]_Group 6_Project Team.
 
 
 
