@@ -4,7 +4,7 @@
 
 ---
 
-## 🏫 American International University–Bangladesh (AIUB)  
+## <img width="30" height="20" alt="image" src="https://github.com/user-attachments/assets/a0a0e969-3d80-4199-aebf-bbc9b417f12e" />American International University–Bangladesh (AIUB)  
 **Department:** Computer Science  
 **Course:** CSC4118 – Computer Graphics  
 **Semester:** Summer 2024–2025  
